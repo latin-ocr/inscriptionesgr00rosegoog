@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./inscriptionesgr00rosegoog_0488.png"; bbox 0 0 3188 5102; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 826 2521 936 3950">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 826 2521 936 3950">
+     <span class='ocr_line' id='line_1_1' title="bbox 826 2589 868 3950; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 850 3941 856 3950; x_wconf 90' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 826 3843 859 3911; x_wconf 80' lang='grc' dir='ltr'><strong><em>Μ</em></strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 826 3612 861 3831; x_wconf 57' lang='lat' dir='ltr'>Nax·</span> <span class='ocrx_word' id='word_1_4' title='bbox 828 2873 866 3599; x_wconf 75' lang='grc' dir='ltr'>ΝΩΑΡκοΝ-ΓΟΣΑ</span> <span class='ocrx_word' id='word_1_5' title='bbox 833 2589 868 2862; x_wconf 76' lang='grc' dir='ltr'><strong>ΓΩΝο</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 869 2521 936 3915; textangle 90"><span class='ocrx_word' id='word_1_6' title='bbox 869 2521 936 3915; x_wconf 67' lang='grc' dir='ltr'><strong>’ΘετιοΝτοΣτΩΝκΑΡιτειΣιΩΝ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 960 2553 1083 3924">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 960 2553 1083 3924">
+     <span class='ocr_line' id='line_1_3' title="bbox 960 2553 1005 3913; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 960 2553 1005 3913; x_wconf 76' lang='grc' dir='ltr'>εΥΑΡιοΣτΩηΑΝΤΩΝοΣ-ι-ΥΔΕ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1031 2622 1083 3924; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 1031 3767 1079 3924; x_wconf 69' lang='lat' dir='ltr'>EN!</span> <span class='ocrx_word' id='word_1_9' title='bbox 1032 3098 1080 3743; x_wconf 70' lang='grc' dir='ltr'>κΩΣΛΝΤΛκΛΡ</span> <span class='ocrx_word' id='word_1_10' title='bbox 1036 3049 1080 3069; x_wconf 81' lang='grc'><strong><em>1</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1037 2889 1082 3019; x_wconf 83' lang='grc' dir='ltr'>ΤΕ</span> <span class='ocrx_word' id='word_1_12' title='bbox 1039 2843 1082 2864; x_wconf 70' lang='lat' dir='ltr'>r</span> <span class='ocrx_word' id='word_1_13' title='bbox 1037 2757 1080 2815; x_wconf 74' lang='grc' dir='ltr'>Σ</span> <span class='ocrx_word' id='word_1_14' title='bbox 1038 2710 1078 2731; x_wconf 72' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_15' title='bbox 1039 2622 1083 2681; x_wconf 73' lang='grc' dir='ltr'>Α</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1598 5102">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1598 5102">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1598 5102; textangle 90"><span class='ocrx_word' id='word_1_16' title='bbox 0 0 1598 5102; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
